@@ -30,6 +30,8 @@
 
 >  Music player indicator with stop/play/next song options
 
+>  Volume indicator
+
 Screenshots:
 ![alt text](https://github.com/MrDefkit/Dotfiles/blob/main/2022-10-13-12:18:47-screenshot.png)
 
