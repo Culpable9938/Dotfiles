@@ -1,4 +1,4 @@
-**Dependencies:**
+## **Dependencies:**
 
 >  i3
 
@@ -14,7 +14,7 @@
 
 >  dmenu
 
-**Scripts:**
+## **Scripts:**
 
 >  Retro game health styled battery indicator.
 
